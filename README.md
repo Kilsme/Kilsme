@@ -3,7 +3,7 @@
 *Time allows no backtracking*
 
 ## 🎓 Education
-**B.S. in Cybersecurity, Harbin | 2024–2028**
+**B.Eng. in Data Science and Big Data Technology, Harbin | 2024–2028**
 
 ## 🛠️ Tech Stack
 **Languages & Frameworks**
